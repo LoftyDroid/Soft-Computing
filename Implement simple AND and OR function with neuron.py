@@ -1,6 +1,6 @@
 // or function
-w=1
-w=2
+w1=1
+w2=1
 threshold=int(input("enter threshold"))
 x1=[1,1,0,0]
 x2=[1,0,1,0]

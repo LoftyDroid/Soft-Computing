@@ -1,4 +1,4 @@
-// XOR function
+#XOR function
 w1=1
 w2=1
 b=0

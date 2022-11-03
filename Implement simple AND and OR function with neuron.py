@@ -1,4 +1,4 @@
-// or function
+# or function
 w1=1
 w2=1
 threshold=int(input("enter threshold"))
